@@ -5,7 +5,7 @@ date: 2018-05-27
 ---
 # The Beginning
 My experiments with Ubuntu's UI started a month ago, with my exams hiding round the corner, ready to say 'Boo !' I, as usual was whiling my time away instead of doing something productive. As hax0r wannabes like me know, Linux has a 'shell', which makes it inherantly cooler than Windows. (Jokes aside, you seriously should shift to some Linux distro if you are serious about programming and computers. Don't embarass yourself.) I already *had* Ubuntu.  But the whole *Cool hax0r wearing hoodlie *hacking* away on Matrix-like shell* vibe was missing. That's when I decided to get myself a 'Kool' desktop enviornment. It was time to go Kubuntu !
-Kubutu is  a flavor of Ubuntu with a prettier user interface. It is managed by the KDE Community
+Kubuntu is  a flavor of Ubuntu with a prettier user interface. It is managed by the KDE Community
 The [KDE Project](https://www.kde.org/) , I think was the 'Kool Desktop Enviornment' project in the past. But now it no longer means that, as no complany which calls itself 'Kool' is likely to get donations from tech giants like Google or Canonical.
 I wanted to go Kubuntu, but leaving Ubuntu seemed like a recipe for disaster. (noobies, huh ?).
 
@@ -33,7 +33,7 @@ Chose 'Plasma' (bad things have happened when I chose GNOME. But if you are a tr
 It was at this juncture that I realised that KDE was like windows. For one thing, it took a noticably longer time to load than Ubuntu. It's windows have the [] _ X buttons at the top right, like window's windows. Anyways, it does have  a lot of interesting features.
 There is a conscious effort to make stuff user friendly. The problem is, the general definition of user-friendly is windows-like. It is NOT user friendly to an ubuntu user.  But it IS beautiful.
 
-# The Kubutu enviornment
+# The Kubuntu enviornment
 ![Kubuntu's Desktop](/images/kubuntu-desktop.png)
 
 Kubuntu Desktop's defining feature is the ability to add and customize widgets. There are a few built-in ones, like the clock or the menu widget.
@@ -42,7 +42,7 @@ Widgets. More widgets are also available for download.
 # The Menu Widget
 ![Menu](/images/menu_widget.png)
 
-Calender	
+# Time Widget	
 ![Calender](/images/calender_widget.png)
 
 Kubuntu has a smooth look and feel. 
