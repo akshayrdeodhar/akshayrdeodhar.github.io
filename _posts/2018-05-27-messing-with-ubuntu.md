@@ -43,7 +43,7 @@ Widgets. More widgets are also available for download.
 ![Menu](/images/menu_widget.png)
 
 Calender	
-![Calender](/inages/calender_widget.png)
+![Calender](/images/calender_widget.png)
 
 Kubuntu has a smooth look and feel. 
 But Kubuntu also has a few REAL features.
