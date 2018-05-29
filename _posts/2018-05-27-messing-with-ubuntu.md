@@ -57,7 +57,8 @@ Kubuntu was a nice experience. But like several other things (like game piracy o
 
 ![system problem detected](/images/system-program-problem-detected.png)
 
-But more importantly, it gave me confidence- the confidece that I could play around with the system and emerge with a scratch.
+But more importantly, it gave me confidence- the confidece that I could play around with the system and emerge with nothing more than a scratch.
+
 ![tisbutascratch](/images/butascratch.jpg)
 
 Armed with this new-found confidence, I had other adventures, one of them with 'plymouth'. But that, belonging to the horror genre, is a tale for another day and hour.
