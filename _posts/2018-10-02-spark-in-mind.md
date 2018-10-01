@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scream dirty kitty to me"
+title: "'Technical' Festivals"
 date: 2018-08-21
 ---
 
