@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Technical' Festivals"
-date: 2018-08-21
+date: 2018-10-02
 ---
 
 Engineering College Techfests suck. With all their sponsors and their cool names and DJ's
