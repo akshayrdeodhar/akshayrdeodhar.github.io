@@ -46,7 +46,7 @@ This is all fine for nerds like me. But why would unbelieving jocks want to spen
 
 Enter Wade Owen Watts- a fat, under-fed, orphaned nerd who has nothing better to do than study 80's trivia, watch movies, and read books. (Naysayers will call him Marty Stu) His only problem is he does not have cash (real or virtual, with the boundary really thin). His avatar- Parzival (a l33ism for Percival, seeker of the Holy Grail.) Parzival seeks the grail of nerddom, and falls in love with Art3mis along the way. (Who is *NOT* a middle aged guy named Chuck who likes to chat up young guys online). He spouts pop-culture references periodically, and makes many jokes with his best friend, 'Aech' (for 'H')
 
-But if everyone worth knowing on the OASIS is a Gandalf-loving nerd, who do we hate? Driven with an urge to take over Halliday's company, and turn the OASIS into an irritating Freemium game with lots of ads (Note: The OASIS has a one-time entry fee of 25 cents. It makes it's money in virtual mall rentals, virtual fuel, ammo and teleportation costs. Which real nerds will be able to earn by going on adventures anyway) an Evil Internet Corporation fields an army of Stormtrooper-like avatars in uniforms, called Sux0r7 by the C001 egg-hunters (or *Gunters*)
+But if everyone worth knowing on the OASIS is a Gandalf-loving nerd, who do we pwn? Driven with an urge to take over Halliday's company, and turn the OASIS into an irritating Freemium game with lots of ads (Note: The OASIS has a one-time entry fee of 25 cents. It makes it's money in virtual mall rentals, virtual fuel, ammo and teleportation costs. Which real nerds will be able to earn by going on adventures anyway) an Evil Internet Corporation fields an army of Stormtrooper-like avatars in uniforms, called Sux0r7 by the C001 egg-hunters (or *Gunters*)
 
 Add to that a **LOT** of nerd references. And you have a fairy tale.
 
@@ -64,7 +64,7 @@ Who cares if the book is riddled with more plot holes than an NPC who has been s
 
 The whole point of reading for me is that it gives me joy. It makes me laugh. It makes me (day)dream. And this book does just that. It gives me hours of bliss and leaves me wanting for more.
 
-Why would I then care if it does not check the \*character development\* and \* social issues\* boxes which are required by \*great literature\* ?
+Why would I then care if it does not check the \*character development\* and \*social issues\* boxes which are required by \*great literature\*?
 
 !^%@ great literature! That's what I say.
 Player One is Ready to play.
