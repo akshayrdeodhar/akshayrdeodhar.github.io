@@ -4,7 +4,7 @@ title: "On Wodehouse"
 date: 2018-10-18
 ---
 
-#P. G. Wodehouse
+# P. G. Wodehouse
 
 
 	Though I firmly believe that reading is not to be done for
