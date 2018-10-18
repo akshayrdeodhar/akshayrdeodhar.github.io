@@ -4,9 +4,6 @@ title: "On Wodehouse"
 date: 2018-10-18
 ---
 
-# P. G. Wodehouse
-
-
 Though I firmly believe that reading is not to be done for
 self-improvement, I have understood that each writer I have read has given me
 something to keep. Bryson taught me that it was okay for other people to
