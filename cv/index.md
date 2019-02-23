@@ -1,1 +1,1 @@
-[cv](https://bri9k.github.io/cv/resume.pdf)
+[Resume](https://bri9k.github.io/cv/resume.pdf)
