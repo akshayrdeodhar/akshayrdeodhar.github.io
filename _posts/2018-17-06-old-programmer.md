@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Dreaming of a badass programmer"
+date: 2018-06-17
+---
+
+
 # Dreaming
 
 > Exams are a time where I get all kinds of crazy ideas. When I *have* time, ideas refuse to come. When I am trying to sleep and have a written test tomorrow, the brain says hello. And I **have** to write it down, lest I never remember it again. But I like this process. During this end-of-semester exam, I had this weird dream about an old man sitting with his PC, and me going to him as "the last court of appeal" for solving issues in my code. Added a bit of drama. Here it is.
@@ -18,4 +25,6 @@
 	
 *The old computer scientist likes programmers. He has giant tomes about compilers, algorithms and software engineering, and keeps them piled up in the basement for anyone to read. All he asks for is obscurity. You are welcome with your bugs, and to listen to his musings. Gifts of language references for new programming languages, and their compilers are gratefully accepted, as is the odd new RAM when his stops working. But bring money and work, and you will be turned away. Or he will go away. And what will happen then?*
 	
-*As far as I know, he is old since my Algorithms progrssor was an undergraduate. He sits in this cave of his, with his music and his code (and your bugs). A demigod in obscurity.**
+*As far as I know, he is old since my Algorithms progrssor was an undergraduate. He sits in this cave of his, with his music and his code (and your bugs). A demigod in obscurity.*
+
+> Stallman?
