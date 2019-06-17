@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dreaming of a badass programmer"
-date: 2018-06-17
+date: 2019-06-17
 ---
 
 
