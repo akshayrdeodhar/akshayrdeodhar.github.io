@@ -4,9 +4,6 @@ title: "Dreaming of a badass programmer"
 date: 2019-06-17
 ---
 
-
-# Dreaming
-
 > Exams are a time where I get all kinds of crazy ideas. When I *have* time, ideas refuse to come. When I am trying to sleep and have a written test tomorrow, the brain says hello. And I **have** to write it down, lest I never remember it again. But I like this process. During this end-of-semester exam, I had this weird dream about an old man sitting with his PC, and me going to him as "the last court of appeal" for solving issues in my code. Added a bit of drama. Here it is.
 
 *A university town somewhere. In some abandoned basement there sits an old man with a white beard hunched on a park bench. No one knows how it (or he) got there. In his hand is a laptop from a bygone age. No internet in sight (and range)*
