@@ -22,6 +22,6 @@ date: 2019-06-17
 	
 *The old computer scientist likes programmers. He has giant tomes about compilers, algorithms and software engineering, and keeps them piled up in the basement for anyone to read. All he asks for is obscurity. You are welcome with your bugs, and to listen to his musings. Gifts of language references for new programming languages, and their compilers are gratefully accepted, as is the odd new RAM when his stops working. But bring money and work, and you will be turned away. Or he will go away. And what will happen then?*
 	
-*As far as I know, he is old since my Algorithms progrssor was an undergraduate. He sits in this cave of his, with his music and his code (and your bugs). A demigod in obscurity.*
+*As far as I know, he is old since my Algorithms professor was an undergraduate. He sits in this cave of his, with his music and his code (and your bugs). A demigod in obscurity.*
 
 > Stallman?
