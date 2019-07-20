@@ -47,7 +47,9 @@ But on Apte road is a fine establishment called Santosh Bakery (Whose signboard,
 
 Now during my days at Fergusson College, I had eaten Patties, biscuits and cakes at Santosh, and quite liked them. But on that fateful day, my friend suggested that we have a cream roll. I failed to understand why this JEE athlete was burdening his stomach with this poisonous substance. But I played along. **And absolutely loved it**. It was, in fact not poisonous.
 
-Actually, it was stuff advertisements are made of- *crisp on the outside*, *soft and gooey on the inside*. (Also, it was **huge**). It made me feel like I was in one of those Enid Blyton books- the ones filled with children whose holidays always involve contact with criminals, with their parents being totally fine about it. The reason behind this was probably the fact that their meals are sumptuous (and beautifully-described) even in times of great peril. Blyton has had (the poor chap's dead now) a knack for describing food that made me love his (her?) books.
+Actually, it was stuff advertisements are made of- *crisp on the outside*, *soft and gooey on the inside*. (Also, it was **huge**). It made me feel like I was in one of those Enid Blyton books- the ones filled with children whose holidays always involve contact with criminals, with their parents being totally fine about it. The reason behind this was probably the fact that their meals are sumptuous (and beautifully-described) even in times of great peril. Blyton has had (the poor chap's dead now) a knack for describing food that made me love his books.
+
+PS: I **know** Enid Blyton was a woman. I was unable to figure it out during my school years. Finally, I checked wikipedia.
 
 I never understood what *macaroons* meant when I read about them in Blyton's books. All I know was that they were wonderful. At that moment, I decided that Santosh's cream rolls were, in fact Macaroons.
 
