@@ -55,7 +55,7 @@ I never understood what *macaroons* meant when I read about them in Blyton's boo
 
 # Act III: Batata Wada and Downpour
 
-<img src="/images/wada.jpg" width="50%" alt="Batata Wada" align="center">
+<img src="/images/vada.jpg" width="50%" alt="Batata Wada" align="center">
 
 It was time to enter the maze. I told my friend that I wanted to understand the maze, it's turns and tricks and traps.
 
