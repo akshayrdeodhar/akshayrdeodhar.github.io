@@ -4,15 +4,15 @@ title: "Khadyayatra, Part Three"
 date: 2019-08-06
 ---
 
-> Part Three, in which the writer and his wise friend enjoy sweet treats, torture their stomachs further, and bring things to a hearty conclusion. (Refer to Jules Verne to find a better version of descritions of this kind)
+> Part Three, in which the writer and his wise friend enjoy sweet treats, torture their stomachs further, and bring things to a hearty conclusion. (Refer to Jules Verne to find a better version of descriptions of this kind)
 
 # Act VIII: Sugar Rush
 
-In Old Pune is a place called Tulsibaug which is a very important part of the loves of the middle-aged women of Pune (and also their female relatives from other towns). A homemaker in Tulsibaug is like a college student in Grahak Peth. (Good stuff is cheap, cheap stuff is good principal at work). Forget buying- just browsing through such a variety of wares is a very exciting afternoon.
+In Old Pune is a place called Tulsibaug which is a very important part of the lives of the middle-aged women of Pune (and also their female relatives from other towns). A homemaker in Tulsibaug is like a college student in Grahak Peth. (Good stuff is cheap, cheap stuff is good principal at work). Forget buying- just browsing through such a variety of wares is a very exciting afternoon.
 
 Incidentally, there are also a number of establishments here that are famous for food. Sri Krishna, Indrayani Raswanti Gruha, Kalpana Dairy, and Kawre are the ones we saw (which my friend knew.)
 
-Having visited our 'main course' restraunts, we now were going to indulge our sweet teeth.
+Having visited our 'main course' restaurants, we now were going to indulge our sweet teeth.
 
 <img src="/images/lassi.jpg" alt="Lassi" width="50%">
 
@@ -24,7 +24,7 @@ Considering the variety of Lassis available, I was considering another glass. Bu
 
 Without a glance at the wares sold at low-low prices in Tulsi Baug, we went to the Rama temple there. Inside, a priest was conducting a *Pravachan*. Pravachans are Depth-First-Searches of religious material. You start from a main text like *the Mahabharata*. Then, when you encounter a keyword, (say *Vyavahar*) you start a pravachan about that. This goes on for a while, going deeper if you find another (*Patni*, in this case). Finally, when there is a dead end, you return to the previous node. At this pace, the Mahabharata, already huge, will take aeons to complete.
 
-I did poke fun at the pravachan. But what the guy said did make sense, and his tone made me feel calm. The Mandir's atmosphere was serene, and the temperature cool. An island of tranquilty in the chaotic Tulsibaug sea.
+I did poke fun at the pravachan. But what the guy said did make sense, and his tone made me feel calm. The Mandir's atmosphere was serene, and the temperature cool. An island of tranquility in the chaotic Tulsibaug sea.
 
 # Act X: The Hardcore Softy
 
@@ -47,7 +47,7 @@ Happily consuming our softies, we made our way through the bylanes of old pune, 
 # Intermezzo
 ## Watched Match
 
-India faked a batting collapse, then used it's cheat-code bowling attack to destroy Afghanistan. We again hit the street, to further please our tongues, much to the chargin of our stomachs.
+India faked a batting collapse, then used it's cheat-code bowling attack to destroy Afghanistan. We again hit the street, to further please our tongues, much to the chagrin of our stomachs.
 
 # Act XI: Climax
 
@@ -63,7 +63,7 @@ At home, we polished off the patties, and sat down to watch the match against Af
 
 We had made plans for going to Cafe Goodluck and Durga later, but sensibly did not proceed with them.
 
-I once read an anecdote in Bryson's "The Lost Continent", where he describes an evening of gluttony at an all-you-can-eat restraunt, followed by further stomach-stuffing at night at a highyway submarine sandwich shop. That is something I aim to do one day. (Accompanied by proper exercise, of course)
+I once read an anecdote in Bryson's "The Lost Continent", where he describes an evening of gluttony at an all-you-can-eat restaurant, followed by further stomach-stuffing at night at a highway submarine sandwich shop. That is something I aim to do one day. (Accompanied by proper exercise, of course)
 
 On that day, I had one well-prepared, tasty dish after another. I think I came pretty close.
 
