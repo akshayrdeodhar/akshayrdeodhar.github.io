@@ -14,7 +14,7 @@ Incidentally, there are also a number of establishments here that are famous for
 
 Having visited our 'main course' restraunts, we now were going to indulge our sweet teeth.
 
-<img src="/images/lassi.jpg" alt="Lassi" width="90%">
+<img src="/images/lassi.jpg" alt="Lassi" width="50%" style="transform:rotate(90deg);">
 
 We first went to Kalpana Dairy and had a glass of Lassi. Inspite of the variety, we took the "Vanilla" Lassi (actually the Elaichi. This is funny because vanilla refers to "the standard choice" in most contexts, but could mean *the actual flavour* here) Chilled, Sweet, Thick and Addictive. The reason I love yogurt, dahi, taak and lassi is these characteristics. I often daydream about a container of dahi-derivative which never becomes empty. I keep on taking large gulps of the liquid.. and it never stops..   **MOVING ON**
 
@@ -30,11 +30,11 @@ I did poke fun at the pravachan. But what the guy said did make sense, and his t
 
 Once I saw a packet of liquid softy-stuff outside a mall. Apparently, softies are made by processing this liquid in a machine. Since then, I held softies in low regard. Until the day I ate one at Kawre.
 
-<img src="/images/yellowsoftie.jpg" width="90%" align="center" alt="Yellow Softy">
+<img src="/images/yellowsoftie.jpg" width="50%" align="center" alt="Yellow Softy" style="transform:rotate(90deg);">
 
 I was skeptical about my friend's decision of having softies instead of ice-cream at Kawre. But the very first bite (*bite*, mind you, not *lick*. That's the correct way to eat any frozen dessert) changed my opinion. Creamy, cold with a fairly natural taste. I liked it. This was a *real* (read: Hardcore) softy.
 
-<img src="/images/chocolatesoftie.jpg" width="90%" align="center" alt="Chocolate Softy">
+<img src="/images/chocolatesoftie.jpg" width="50%" align="center" alt="Chocolate Softy" style="transform:rotate(90deg);">
 
 Kawre incidentally is the closest thing Pune has to ice-cream parlors I have read about and marvelled at on wikipedia. An old establishment, it serves candies, *faloodas*, sundaes and even an ice-cream soda (named "Volcano")
 
@@ -55,7 +55,7 @@ India faked a batting collapse, then used it's cheat-code bowling attack to dest
 
 We collected an oily pav-patties as parcel. Wrapped with onion slices in a newspaper (which was soaked by the time we opened it). I first tasted Pav Patties at Bipin's in front of Garware College, and absolutely loved it. Bread when fried soaks up a large amount of oil (much to my delight, and my family's horror).
 
-<img src="/images/soda.jpg" width="90%" alt="Mint Soda">
+<img src="/images/soda.jpg" width="50%" alt="Mint Soda" style="transform:rotate(90deg);">
 
 On the way back, we gave a helping hand to our stomachs by downing an extremely strong and spicy mint soda. 
 
