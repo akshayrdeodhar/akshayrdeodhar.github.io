@@ -1,0 +1,233 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[10pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.9]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+\usepackage{import}
+\usepackage{gensymb}
+% personal data
+\name{Akshay}{Deodhar}
+\title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
+\address{College of Engineering, Pune, Wellesely Road, Shivajinagar, Pune, 411005}{Maharashtra}{India}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{+91 7057018422}                   % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{akshayrdeodhar@gmail.com}                               % optional, remove / comment the line if not wanted
+\homepage{bri9k.github.io}
+\extrainfo{GitHub: Bri9k}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{I want to understand the true full stack- from NAND gates right upto Web Applications}                                % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+
+
+\section{Academic Background}
+
+\vspace{3pt}
+
+\begin{itemize}
+
+\item{\cventry{2017--Present}{Computer Engineering (Hons)}{College of Engineering, Pune}{Pune, India}{\textit{CGPA: 9.68}}{}}
+
+\item{\cventry{2015--2017}{Science}{Fergusson College}{Pune, India}{HSC \textit{92.4\%}}{}}  % arguments 3 to 6 can be left empty
+
+\item{\cventry{2005--2015}{Schooling}{BVB's Paranjape Vidya Mandir}{Pune, India}{SSC \textit{95.2\%}}{}}
+
+\end{itemize}
+
+	\section {Coursework}
+	\begin {itemize}
+\item \textbf{Completed}
+	\begin{itemize}
+\item \textbf{Computer Science and Engineering:} Data Structures and Algorithms, Principles of Programming Languages, Digital Logic Design, Microprocessor Techniques, Theory of Computation
+\item \textbf {Mathematics:} Discrete Structures and Graph Theory, Linear Algebra, Univariate Calculus, Differential Equations, Multivariate Calculus
+	\end {itemize}
+\item \textbf{Ongoing:} Computer Organization, Database Management Systems, Computer Networks, Advanced Data Structures, Probability and Statistics for Computing, Software Engineering, Artificial Intelligence
+	
+\item \textbf {Spring Semester:} Operating Systems, Data Science, Algorithms and Complexity, Advanced Microprocessor Techniques, Software Engineering (part 2 of same course)
+	\end{itemize}
+
+\vspace{2pt}
+
+\section{Research Experience}
+
+\vspace{2pt}
+
+\begin{itemize}
+
+	\item{\cventry{November 2017--Present}{Attitude Determination and Control Subsystem}{COEP Satellite Team}{Pune}{}{}}
+		\begin{itemize}
+		\item The team is an undergraduate research group which works on design and development of a nanosatellite with the scientific objective of demonstrating orbit maneuvering using solar sails. This is it's second satellite mission, after successful launch and communication with the passively stabilised picosatellite \textbf{Swayam} launched by ISRO in 2016. 
+		\item I contribute to the team as a programmer for developing simulations, and writing code for orientation calculation and control algorithms. Work involves orbital mechanics, linear algebra, and numerical methods.		
+		\item Research work involved creating a simulation to decide and validate optimum solar sail orientations for orbit raising for a low earth orbit. 
+		\item Additionally, I interview students interested in joining, and mentor freshmen or sophomores who have just joined the team.
+
+		\end{itemize}
+
+\vspace{2pt}
+
+
+\end{itemize}
+
+\section{Publications}
+
+\begin{itemize}
+	\item{\cventry{}{69th International Astronautical Congress (IAC), Bremen, Germany}{Attitude control using 3 axis magnetorquers and pitch axis reaction wheel for solar sailing satellite COEPSAT-2}{}{}{Co-author}{}}
+	\item{\cventry{}{70th International Astronautical Congress (IAC), Washington DC, USA}{Analysis of solar sailing as a means of orbit maneuvering for nanosatellites in low earth orbit}{}{}{Co-author, Presenter}{Presented in IAC 2019 in Washington DC}}
+\end{itemize}
+
+
+\section{Skills}
+
+	\begin {itemize}
+\item \textbf{Programming:} 
+	\begin{itemize}
+			\item Proficient : C, Python
+			\item Familiar: Scheme, x86 Assembly, Bash, C++, m4
+	\end{itemize}
+
+\vspace{2pt}
+
+\item \textbf{Tools:} Git, gdb, Linux utilities, \LaTeX, Gnuplot, Make, Vim, Markdown, GMAT % python regex, Django, Scons
+
+\vspace{2pt}
+
+\item \textbf{Web Development:} HTML, CSS, Bootstrap, Flask, MySQL
+
+\vspace{2pt}
+
+\item Technical documentation, orbital mechanics, numerical methods, mathematical proofs
+	
+	\vspace{2pt}
+
+\item \textbf{Languages:} English, Marathi, Hindi
+
+
+\end{itemize}
+
+
+\newpage
+
+\section{Projects}
+\vspace{4pt}
+
+\begin{itemize}
+
+	\item{\cventry{Fall 2018}{A command-line chess game with a minmax AI and alpha-beta pruning}{Trillian}{}{}{Data Structures and Algorithms Project}{}} 
+		\begin {itemize}
+	\item Command line chess game in C with a minmax AI. Bot makes a decent move in ~0.5 seconds, beats novices, solves puzzles.
+	\item Uses an efficient data structure that I designed which allows fast move calculation and generation.
+	\item 3000+ lines of modular code and a readable main game loop.
+	\item Savegames compatible with the standard Forsyth Edwards format.
+\end{itemize}
+
+	\vspace{3pt}
+
+\item{\cventry{Spring 2019} {A rooted-pagerank based link recommendation system, with a specific application to github follow recommendation} {RankRecommend}{}{}{Principles of Programming Languages Project}{}} 
+	\begin {itemize}
+\item Scrapes github using Requests and BeautifulSoup to build a follow graph in NetworkX
+	\item Ranks users in the neighbourhood based on the rooted pagerank eigenvector. This is the metric used for recommendation
+	\item Python based Flask app accepts github username or a generic graph and a node as input, generates follow recommendations / link recommendation
+	\item Front end uses Bootstrap, with dynamic webpage generation using Jinja
+\end{itemize}
+
+	\vspace{3pt}
+
+
+\item{\cventry{March 2018--July 2019}{A continuous-thrust orbit propagator for analysis of solar sail orienations}{Orbit trajectory simulator for a solar sailing satellite}{}{}{COEP Satellite Team}{}} 
+	\begin{itemize}
+		\item Developed a Python module which interacts with NASA's General Mission Analysis Tool. 
+		\item Simulation uses GMAT's propagator in conjugation with the module, which calculates optimal sail orienations, and the corresponding solar thrust. 
+		\item Carried out verification of the simulation using analytical methods and available literature.
+		\item Used simulation to create an optimised set of solar sail orientations. This analysis formed the basis for the paper "Analysis of solar sailing as a means of orbit maneuvering, which has been selected for the 70th International Astronautical Conference, Washington DC.
+
+\end{itemize}
+Code for course projects available at github.com/bri9k, simulation code not public.
+
+\end{itemize}
+
+\section{Achievements}
+\begin {itemize}
+ \item {Have a perfect grade in \emph{all} Computer Science courses I have completed}
+ \item {Selected for ACM India's compiler construction summer school}
+ \item {Secured rank 106 in Maharashtra State Common Entrance Test among 300 thousand candidates}
+ \item {Secured All India Rank under 10177 in IIT JEE Mains among over 1.3 million candidates}
+ \item {Secured All India Rank under 6926 in IIT JEE Advanced among 220 thousand candidates}
+ \item {Maharashtra State High School Scholarship}
+\end{itemize}
+
+\section{Extra-curricular activities}
+
+ 
+ \begin{itemize}
+
+	 \item{\cventry{April 2018--Present}{bri9k.github.io}{Blog}{}{About food, books, and standard nerd stuff}{}}
+
+	 \item{\cventry{--}{School, Fergusson, CoEP.}{Chess Team}{}{Represented institutions in inter-college events}{}}
+
+	 \item{\cventry{September 2017--Present}{Abhiyanta Magazine, CoEP}{Writer, English Section}{}{}{}}
+
+	 \item{\cventry{May 2019--Present}{Mindspark, CoEP's technical festival}{Event Head, \emph{Retracer} (competitive coding event)}{}{}{}}
+	 
+ \end{itemize}
+
+\section{Interests}
+A major goal is to understand computer systems right from the ISA, Operating Systems to Application programs. I find functional programming and compilers fascinating, along with theoretical areas like formal models of computation, algorithms and graph theory. I have worked with orbital mechanics and rigid body dynamics simulations. Am an open source enthusiast.
+
+\section {Hobbies}
+Love reading fantasy, science fiction, and farce. Enthusiastic about trekking. Listen to (and attempt to play on harmonium) all kinds of music. Write a bit of limerick. Currently learning sculling.
+
+ \end{document}
+ % Publications from a BibTeX file without multibib
+ %  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+ %  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+
+ % Publications from a BibTeX file using the multibib package
+ %\section{Publications}
+ %\nocitebook{book1,book2}
+ %\bibliographystylebook{plain}
+ %\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+ %\nocitemisc{misc1,misc2,misc3}
+ %\bibliographystylemisc{plain}
+ %\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+ %-----       letter       ---------------------------------------------------------
+
+
+
+ %% end of file `template.tex'.
+
