@@ -1,3 +1,3 @@
-[Resume](https://bri9k.github.io/cv/resume.pdf)
+[Resume](https://akshayrdeodhar.github.io/cv/resume.pdf)
 
-[Curiculum Vitae](https://bri9k.github.io/cv/akshay_cv.pdf)
+[Curiculum Vitae](https://akshayrdeodhar.github.io/cv/akshay_cv.pdf)
