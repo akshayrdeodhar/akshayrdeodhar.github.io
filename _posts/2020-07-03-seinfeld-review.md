@@ -4,7 +4,7 @@ title: "A show about nothing"
 date: 2020-07-03
 ---
 
-![Seinfeld](seinfeld.jpeg)
+![Seinfeld](/images/seinfeld.jpeg)
 
 I haven't been reading much lately, and that's a shame. Until a couple of years
 ago I used to be involved in reading some kind of series or anthology. It's as
@@ -39,7 +39,7 @@ was a particularly crazy episode where Newman investigates Jerry for postal
 fraud, where an assistant moves printed photos to create a slideshow as Newman
 clicks his (obviously defunct) pointer which prompted me to write this.
 
-![Newmann!](newman.gif)
+![Newmann!](/images/newman.gif)
 
 Besides Newman, the show boasts of quite a quriky cast of side characters- Jerry's thrifty
 British parents- Helen and Morty, with their own world of machinations and
@@ -55,10 +55,10 @@ to one another and to others". But that's unfair. Seinfeld, though unrealistic
 at times, captures and criticises, and turns life's cliches, oftimes by taking
 them to their extremes. Here are characters who aren't afraid to express out
 loud (or even follow) that inner voice you dismissed as weird or unpractical
-To round it off, most episodes start with a clip of on-screen Jerry's comedy
-performances, somewhat related to the episode's content. (the wikipedia page
+To round it off, most episodes start with a clip of on-screen-jerry's comedy
+bits, somewhat related to the episode's content. (the wikipedia page
 says that the creator described the show as one which shows how a comedian gets
-his material). The performances are nicely contrasted by the main theme, tweaked
+his material). The bits are nicely contrasted by the main theme, tweaked
 for every episode by the composer, Jonathan Wolf. (It's quriky nature makes it a
 great alarm)
 
