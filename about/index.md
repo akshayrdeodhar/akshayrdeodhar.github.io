@@ -15,7 +15,7 @@ Compilers.
 
 Have worked on a lot of projects- hacked the xv6 kernel, wrote a couple of web
 apps for solving problems which I *actually* faced in college, a github follow
-recommendation website using pagerank. During my Sophomore year, when I wrote a
+recommendation website using pagerank. During my Sophomore year, I wrote a
 MinMax based chess AI, in C. That's when I got hooked- days of milling around
 thinking of some design issue, drawing up flowcharts on whiteboards.
 
@@ -60,6 +60,6 @@ really into trekking, Sci-Fi and Fantasy, Wodehouse, Douglas Adams, classical
 music (western and Hindustani), Chess, and Badminton. I've a writer in our
 college's magazine team, and have written some weird but highly entertaining
 articles. I have a long-unfulfilled wish of running a Dungeons and Dragons
-campaign in a highly detained steampunk world. I learned a bit of sculling
+campaign in a highly detailed steampunk world. I learned a bit of sculling
 during my summer break after second year, but have a tendency to fall into the
 Mutha river from the stablest of boats.
