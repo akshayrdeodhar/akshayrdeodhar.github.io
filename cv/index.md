@@ -1,3 +1,1 @@
-[Resume](https://akshayrdeodhar.github.io/cv/resume.pdf)
-
-[Curiculum Vitae](https://akshayrdeodhar.github.io/cv/akshay_cv.pdf)
+[CV](https://drive.google.com/file/d/1yDz7aK4OTuHpNQRspB9AbdLq5_GTPS3t/view?usp=sharing)
