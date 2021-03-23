@@ -1,3 +1,9 @@
 _sites
 *.mp4
 *~
+_site
+Gemfile
+Gemfile.lock
+.bundle/
+.jekyll-cache/
+vendor/
