@@ -78,9 +78,9 @@ Recently, I started using Clang instead of GCC.
 
 I hope to do things in life other than CS- I've at different points in time been
 really into trekking, Sci-Fi and Fantasy, Wodehouse, Douglas Adams, classical
-music (western and Hindustani), Chess, and Badminton. I've a writer in our
-college's magazine team, and have written some weird but highly entertaining
-articles. I have a long-unfulfilled wish of running a Dungeons and Dragons
+music (western and Hindustani), Chess, and Badminton. I've written some weird
+but entertaining articles for our college magazine, and served as editor for a
+year. I have a long-unfulfilled wish of running a Dungeons and Dragons
 campaign in a highly detailed steampunk world. I learned a bit of sculling
 during my summer break after second year, but have a tendency to fall into the
 Mutha river from the stablest of boats. Now, I'm learning rock-climbing.
