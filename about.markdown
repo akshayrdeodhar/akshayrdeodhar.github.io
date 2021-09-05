@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About Me
+layout: page
+title: About
 ---
 
 I am a master's student studying Computer Science at Georgia Tech. Right now,
