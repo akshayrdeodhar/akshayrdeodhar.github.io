@@ -62,11 +62,11 @@ discussing BCH, stackless coroutines, and deadlocks. If you are a COEP student,
 consider joining the team the next time they conduct inductions! CSAT has got
 really cool stuff going on.
 
-Besides this, the other fun things in undergrad that I loved doing was [hacking
+Besides this, the other things from undergrad that I loved doing were [hacking
 xv6](https://github.com/akshayrdeodhar/xv6-kthreads), building an AI chess game,
 whom I named "[Trillian](https://github.com/akshayrdeodhar/trillian)" (a Hitch-Hiker's Guide to the Galaxy reference), and my
 [brief tryst](https://github.com/akshayrdeodhar/sicp) with the charms of Functional Programming and
-Scheme when I was young and carefree.
+Scheme when I was young and carefree. 
 
 This is a personal website, but it is also my blog- the posts are scattered and
 mostly not deeply CS related, but hey! Other stuff is fun too! If you want to
