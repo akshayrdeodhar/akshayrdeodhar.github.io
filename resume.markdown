@@ -3,4 +3,4 @@ layout: page
 title: Resume
 ---
 
-[Link](https://drive.google.com/file/d/1YC0_Taxe0PIY9odRslFq2OyY3C-1btxo/view?usp=sharing)
+[Link](https://drive.google.com/file/d/1lDEYajvxcl96x1H4cHi3-1PPJX0JLOMH/view?usp=sharing)
