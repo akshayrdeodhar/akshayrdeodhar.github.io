@@ -28,3 +28,13 @@ title: Cool Stuff
   astronomy is about telescopes"* --[EWD](https://www.cs.utexas.edu/users/EWD/).
   Also referenced in [Structure and Interpretation of Computer
   Programs](https://github.com/sarabander/sicp-pdf)
+
+- **Computer Science is Mathematics**: From [Ask Me Anything with Simon Peyton
+  Jones, hosted by Benjamin
+  Pierce](https://www.youtube.com/watch?v=LLerxBNiHDo), PLDI 2020.
+
+	For me, Computer Science is Mathematics made incarnate, right? Made flesh.
+	Made tangible. If you think about a loop- a loop is induction in
+	execution! How am I sure that the loop does give the right answer? You have
+	to give an inductive proof. Computer Science is the way that we manifest or
+	animate mathematics.
