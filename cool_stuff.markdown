@@ -38,3 +38,11 @@ title: Cool Stuff
 	execution! How am I sure that the loop does give the right answer? You have
 	to give an inductive proof. Computer Science is the way that we manifest or
 	animate mathematics.
+
+
+- **The Clockwise/Spiral Rule**: [From c-faq](
+  http://c-faq.com/decl/spiral.anderson.html), originally by David Anderson.
+  Helping people parse C declarations in interviews since 1994. Because of
+  course, if I were working on a real project, I'd use the program from KnR to
+  be sure. But it turns out, not having to consult documentation for language
+  features _does_ make you a better programmer..
