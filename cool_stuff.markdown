@@ -3,11 +3,11 @@ layout: page
 title: Cool Stuff
 ---
 
-- _A computer is a state machine. Threads are for people who can't program
-  state machines --Alan Cox_. From [lkml](https://lkml.org/lkml/2001/6/19/62) I don't know how he meant it, but I personally
+- **State Machines**: _A computer is a state machine. Threads are for people who can't program
+  state machines --Alan Cox_. From [lkml](https://lkml.org/lkml/2001/6/19/62). I don't know how he meant it, but I personally
   found state machines to be a very good way to design programs. Everytime I
   find an elegant design that uses state machines, I wonder why I don't use
-  those often. 
+  those more often. 
 
 - *You can’t just place a LISP book on top of an x86 chip and hope that the hardware learns about lambda calculus by osmosis. *James Mickens, about the undeniable reality of pointers, in  "[The Night Watch](http://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)". The entire [The Wisdom of James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens) series is awesome. James is a man after my own heart.
 
