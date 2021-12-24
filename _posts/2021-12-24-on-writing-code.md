@@ -12,7 +12,9 @@ date: 2021-12-24
 > it was poetic- so I created a copy on my blog. In case of any ownership
 > issues, I implore the original author(s) to contact me!
 
-## On Writing Code
+> The Coda: So now my heart is filled with yearning: to live forever in the elegance and 
+> simplicity of Scheme, and yet have the volume and quality of support, libraries and 
+> tools that have been built for other tongues
 
 Coding in C++ is like a knife fight. The compiler is your first enemy, and the system 
 you're writing is the second. With each line of code, you use every underhanded trick 
