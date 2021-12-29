@@ -3,6 +3,8 @@ layout: page
 title: Cool Stuff
 ---
 
+- **A veiled boast about C++**: _There are only two kinds of languages: the ones people complain about and the ones nobody uses. ― Bjarne Stroustrup_
+
 - **State Machines**: _A computer is a state machine. Threads are for people who can't program
   state machines --Alan Cox_. From [lkml](https://lkml.org/lkml/2001/6/19/62). I don't know how he meant it, but I personally
   found state machines to be a very good way to design programs. Everytime I
