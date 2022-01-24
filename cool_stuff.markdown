@@ -3,6 +3,19 @@ layout: page
 title: Cool Stuff
 ---
 
+- **A beautiful excrept from "Reaper Man"**: _Death's dialouge is CAPITALIZED_.
+
+		“Picture a tall, dark figure, surrounded by cornfields...
+		NO, YOU CAN'T RIDE A CAT. WHO EVER HEARD OF THE DEATH OF RATS RIDING A CAT? THE DEATH OF RATS WOULD RIDE SOME KIND OF DOG.
+		Picture more fields, a great horizon-spanning network of fields, rolling in gentle waves...
+		DON'T ASK ME I DON'T KNOW. SOME KIND OF TERRIER, MAYBE.
+		...fields of corn, alive, whispering in the breeze...
+		RIGHT, AND THE DEATH OF FLEAS CAN RIDE IT TOO. THAT WAY YOU KILL TWO BIRDS WITH ONE STONE.
+		...awaiting the clockwork of the seasons.
+		METAPHORICALLY.”
+
+― Terry Pratchett, Reaper Man 
+
 - **A veiled boast about C++**: _There are only two kinds of languages: the ones people complain about and the ones nobody uses. ― Bjarne Stroustrup_
 
 - **State Machines**: _A computer is a state machine. Threads are for people who can't program
