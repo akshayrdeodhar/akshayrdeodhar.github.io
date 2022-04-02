@@ -3,6 +3,15 @@ layout: page
 title: Cool Stuff
 ---
 
+- _“The finest line of poetry ever uttered in the history of this whole damn
+  country was said by Canada Bill Jones in 1853, in Baton Rouge, while he was
+  being robbed blind in a crooked game of faro. George Devol, who was, like
+  Canada Bill, not a man who was averse to fleecing the odd sucker, drew Bill
+  aside and asked him if he couldn't see that the game was crooked. And Canada
+  Bill sighed, and shrugged his shoulders, and said, 'I know. But it's the only
+  game in town.' And he went back to the game.”_ --**Neil Gaiman, American
+  Gods**.
+
 - **A beautiful excrept from "Reaper Man"**: _Death's dialouge is CAPITALIZED_.
 
 		“Picture a tall, dark figure, surrounded by cornfields...
