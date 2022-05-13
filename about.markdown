@@ -22,6 +22,9 @@ papers](https://saeed.github.io/CS8803_DNS_Spring2022/syllabus.html).
 
 ## 2022- Georgia Tech, Nvidia, and Sambanova Systems
 
+In Spring 2022, I worked as a teaching assistant for Prof Kishore
+Ramachandran's course, CS 6210 Advanced Operating Systems.
+
 I'll be fulfilling my long-cherished dream of working in a chip company this
 year, **twice**. In summer, I'll be interning at **Nvidia**, working in the
 **Containers and Kubernetes** team. In fall, I'll be interning at **Sambanova Systems**,
