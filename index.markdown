@@ -6,12 +6,14 @@ title: Home
 layout: home
 ---
 
-Hi, I'm Akshay
+Welcome! I'm Akshay.
 
-Welcome!
+~~I'm a rambling wreck from Georgia Tech.~~ I am a Computer Science Master's student at Georgia Tech, specializing in Computing
+Systems. I want to build correct, fast, and scalable software. Find out more [about](/about) me. 
 
-I'm a rambling wreck from Georgia Tech, and am studying to become a helluva
-engineer. Actually, I'm a Computer Science Master's student at Georgia Tech,
-specializing in Computing Systems. I'm interested in building correct, fast, and
-scalable software.  Find out more [about](/about) me.
+I am looking for full time opportunities as a software engineer starting ~May 2023. 
+I'm interested in infrastructure, systems software, compilers, databases,
+and high performance computing- but am open to anything that'll involve
+_thinking_ and writing code. Take a look at my
+[resume](https://drive.google.com/file/d/1lDEYajvxcl96x1H4cHi3-1PPJX0JLOMH/view?usp=sharing).
 
