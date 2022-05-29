@@ -34,8 +34,8 @@ are going to have crime, let it atleast be organized". In that city, a shambling
 Night Watch, which recruits Corporals Detritus (Troll), Cuddy (Dwarf), Angua
 (Woman..?) as the city's own version of affirmative action. These recruits join
 the simple (but not stupid) Constable Carrot, Sergeant Colon ("This is your
-truncheon... _Hand_ will look after hit! You will eat with hit! You sleep with
-hit!) and the impeccable Captain Sam Vimes, with his [boots theory of
+truncheon... _Hand_ will look after _hit_! You will eat with _hit_! You sleep with
+_hit_!) and the impeccable Captain Sam Vimes, with his [boots theory of
 socioeconomic
 unfairness](https://www.goodreads.com/quotes/72745-the-reason-that-the-rich-were-so-rich-vimes-reasoned). 
 And this watch faces a serial killer, where the murder weapon is a madcap
@@ -53,8 +53,8 @@ takes place in the twilight of the "old" discoworld of mad wizards and
 sword-and-sorcery heroes, as it transitions into a world of steam engines,
 thinking machines (powered by ants) and forensic analysis. In fact, the end of
 the book could as well be the inflection point, as Corporal Carrot and the
-Patrician Havelock Vetinari (I'd encourage you to read about [Vetinari Job
-Security](https://tvtropes.org/pmwiki/pmwiki.php/Main/VetinariJobSecurity) reach
+Patrician Havelock Vetinari (I encourage you to read about [Vetinari Job
+Security](https://tvtropes.org/pmwiki/pmwiki.php/Main/VetinariJobSecurity)) reach
 an understanding, and the modern City Watch gets created.  Almost everything is
 a parody of some trope, but the parody is good-natured, and you come to love it. 
 
@@ -70,7 +70,7 @@ who recruits multiple citizens into the watch using the very famous, very
 traditional "troll oath" (I will do what I am told otherwise I get my goohuloog
 head kicked in). Here is a scene that will give you a glimpse of what Pratchett
 excels at- Detritus is unable to count, and when he does, he does it in binary.
-(Note tha trolls are made up of rocks, and hence, silicon). When trapped in the
+(Note that trolls are made up of rocks, and hence, silicon). When trapped in the
 freezing meat futures warehouse (long story, just read the book), his silicon
 "brain" becomes a superconductor and suddenly starts working very efficiently.
 By the time he is rescued, the walls are filled with millennia of mathematical 
