@@ -38,7 +38,7 @@ also built a prototype where I integrated the Fleet Command log collection
 service with an internal ELK data platform, and researched a binary-diff
 mechanism for making over-the-air updates more efficient. The team is wonderful, filled with people having different areas of expertise, and with two common traits- everyone is really nice and helpful.
 
-In the fall, I interned at an AI Chip startup in the  bay area, working on the compiler for a Domain-Specific Language used for implementing PyTorch-style operators on their architecture. The architecture is very different from whatever else is on the market. This was the place where I finally earned my compiler stripes.
+In the fall, I interned at an AI Chip startup in the  bay area, working on the compiler for a Domain-Specific Language used for implementing PyTorch-style operators on their architecture. The architecture is very different from whatever else is on the market. This was the place where I finally earned my compiler stripes. Other than that, I met a lot of people who were really smart, enthusiastic, and fun to be around.
 
 ## 2021- Veritas Technologies
 
