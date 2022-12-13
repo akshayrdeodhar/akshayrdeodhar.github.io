@@ -20,15 +20,25 @@ papers](https://saeed.github.io/CS8803_DNS_Spring2022/syllabus.html).
 
 # Experience
 
-## 2022- Georgia Tech, Nvidia, and Sambanova Systems
+## 2023- Back to Georgia Tech
+
+In Spring 2023, I'll be returning as a teaching assistant for CS 6210. Besides that, I'm going to take two math-y courses- Parallelizing Compilers and Graduate Algorithms, and the last semester of my education.
+
+## 2022- Georgia Tech, Nvidia, and an AI chip startup
 
 In Spring 2022, I worked as a teaching assistant for Prof Kishore
 Ramachandran's course, CS 6210 Advanced Operating Systems.
 
-I'll be fulfilling my long-cherished dream of working in a chip company this
-year, **twice**. In summer, I'll be interning at **Nvidia**, working in the
-**Containers and Kubernetes** team. In fall, I'll be interning at **Sambanova Systems**,
-an AI Chip startup, in their **Compilers** team.
+I fulfilled my long-cherished dream of working in a chip company this
+year, **twice**. 
+
+In summer, I interned at **Nvidia**, working in the Fleet Command team, where I
+wrote a new service for zero-touch provisioning of GPU-enabled edge devices. I
+also built a prototype where I integrated the Fleet Command log collection
+service with an internal ELK data platform, and researched a binary-diff
+mechanism for making over-the-air updates more efficient. The team is wonderful, filled with people having different areas of expertise, and with two common traits- everyone is really nice and helpful.
+
+In the fall, I interned at an AI Chip startup in the  bay area, working on the compiler for a Domain-Specific Language used for implementing PyTorch-style operators on their architecture. The architecture is very different from whatever else is on the market. This was the place where I finally earned my compiler stripes.
 
 ## 2021- Veritas Technologies
 
