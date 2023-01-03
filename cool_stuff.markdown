@@ -3,6 +3,10 @@ layout: page
 title: Cool Stuff
 ---
 
+- _"Ever notice how "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn" and "Protected abstract virtual typedef'd copy constructor function" sound identical underwater?"_ -Steve Yegge, Stevey's Drunken Blog Rants
+
+- [_"I would snort VTI if it came as a powder."_](https://www.reddit.com/r/Bogleheads/comments/ztyr9q/comment/j1gmzzd/?utm_source=share&utm_medium=web2x&context=3) -Hot-Praline7204, reddit.com/r/bogleheads
+
 - "_A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects._" ― Robert A. Heinlein
 
 - _“The finest line of poetry ever uttered in the history of this whole damn
