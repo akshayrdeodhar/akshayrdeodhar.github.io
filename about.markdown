@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-I am a master's student studying Computer Science at Georgia Tech. In my first two semester and my internships, I learned to hack computer systems. In my last semester, I'll be taking "Ivory Tower" math-y courses. (for science, and for the children!). 
+I am a master's student studying Computer Science at Georgia Tech. In my first two semester and my internships, I learned to hack computer systems. This is my last semester, and I'm taking "Ivory Tower" math-y courses. (for science, and for the children!). 
 
-I'm interested in working in infrastructure, compilers, databases and HPC.
+I'm interested in working in systems, compilers, databases and HPC.
 I'm inclined towards projects that lie at the intersection of implementation
 and theory. From a theoretical standpoint, I'm interested in parallelism,
 concurrency, algorithms, and programming languages. At Georgia Tech, I've taken
@@ -20,7 +20,7 @@ papers](https://saeed.github.io/CS8803_DNS_Spring2022/syllabus.html).
 
 ## 2023- Back to Georgia Tech
 
-In Spring 2023, I'll be returning as a teaching assistant for CS 6210. Besides that, I'm going to take two math-y courses- Parallelizing Compilers and Graduate Algorithms, and the last semester of my education.
+In Spring 2023, I'll be returning as a teaching assistant for CS 6210. Besides that, I'm taking two math-y courses- Parallelizing Compilers and Graduate Algorithms, learning a bit of Microeconomics, and am enjoying the (most probably) last semester of my education. 
 
 ## 2022- Georgia Tech, Nvidia, and an AI chip startup
 
@@ -39,7 +39,7 @@ binary-diff mechanism for making over-the-air updates more efficient. The team
 is wonderful, filled with people having different areas of expertise, and with
 two common traits- everyone is really nice and helpful.
 
-In the fall, I interned at an AI Chip startup in the SF Bay area, working on
+In the fall, I interned at Sambanova Systems in Palo Alto, working on
 the compiler for a Domain Specific Language (DSL) used for implementing
 [PyTorch-style
 operators](https://dev-discuss.pytorch.org/t/where-do-the-2000-pytorch-operators-come-from-more-than-you-wanted-to-know/373)
@@ -106,8 +106,9 @@ Scheme when I was young and carefree.
 # Life
 
 This is a personal website, but it is also my blog- the posts are scattered and
-mostly not deeply CS related, but hey! Other stuff is fun too! If you want to
-see my code, look at my [github](https://github.com/akshayrdeodhar).
+mostly not Deep CS posts, but hey! Other stuff is fun too! If you want to
+see my code, look at my [github](https://github.com/akshayrdeodhar). If you like to read,
+have a gander at my [goodreads](https://www.goodreads.com/user/show/161505204-akshay-deodhar).
 
 Inspite of my respect for Emacs and Arch users, I opt to use Vim (sometimes
 _VSCode_) and Manjaro, and have grown to love the GUI package manager. I'm an
@@ -119,6 +120,6 @@ classical music (western and Hindustani), Chess, and Badminton. I enjoy
 cooking, and am becoming better at it, one dish at a time. I've written some
 weird but entertaining articles for our college magazine, and served as editor
 for a year. I have a long-unfulfilled wish of running a Dungeons and Dragons
-campaign in a highly detailed steampunk world. I learned a bit of sculling
+campaign in a highly detailed steampunk world. I learned a bit of rowing (sculling)
 during my summer break after second year, but have a tendency to fall into the
-Mutha river from the stablest of boats. Now, I'm learning rock-climbing.
+Mutha river from the stablest of boats. Now, I'm learning ~rock-climbing~ fencing.
