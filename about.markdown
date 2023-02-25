@@ -122,4 +122,4 @@ weird but entertaining articles for our college magazine, and served as editor
 for a year. I have a long-unfulfilled wish of running a Dungeons and Dragons
 campaign in a highly detailed steampunk world. I learned a bit of rowing (sculling)
 during my summer break after second year, but have a tendency to fall into the
-Mutha river from the stablest of boats. Now, I'm learning ~rock-climbing~ fencing.
+Mutha river from the stablest of boats. Now, I'm learning ~~rock-climbing~~ fencing.
