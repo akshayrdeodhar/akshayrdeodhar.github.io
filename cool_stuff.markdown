@@ -20,18 +20,16 @@ title: Cool Stuff
   game in town.' And he went back to the game.”_ --**Neil Gaiman, American
   Gods**.
 
-- **A beautiful excrept from "Reaper Man"**: _Death's dialouge is CAPITALIZED_.
+- **A beautiful excrept from Terry Pratchett's "Reaper Man"**: _Death's dialouge is CAPITALIZED_.
 
-		“Picture a tall, dark figure, surrounded by cornfields...
-		NO, YOU CAN'T RIDE A CAT. WHO EVER HEARD OF THE DEATH OF RATS RIDING A CAT? THE DEATH OF RATS WOULD RIDE SOME KIND OF DOG.
-		Picture more fields, a great horizon-spanning network of fields, rolling in gentle waves...
-		DON'T ASK ME I DON'T KNOW. SOME KIND OF TERRIER, MAYBE.
-		...fields of corn, alive, whispering in the breeze...
-		RIGHT, AND THE DEATH OF FLEAS CAN RIDE IT TOO. THAT WAY YOU KILL TWO BIRDS WITH ONE STONE.
-		...awaiting the clockwork of the seasons.
-		METAPHORICALLY.”
-
-― Terry Pratchett, Reaper Man 
+    _"Picture a tall, dark figure, surrounded by cornfields...\
+    NO, YOU CAN'T RIDE A CAT. WHO EVER HEARD OF THE DEATH OF RATS RIDING A CAT? THE DEATH OF RATS WOULD RIDE SOME KIND OF DOG.\
+    Picture more fields, a great horizon-spanning network of fields, rolling in gentle waves...\
+    DON'T ASK ME I DON'T KNOW. SOME KIND OF TERRIER, MAYBE.\
+    ...fields of corn, alive, whispering in the breeze...\
+    RIGHT, AND THE DEATH OF FLEAS CAN RIDE IT TOO. THAT WAY YOU KILL TWO BIRDS WITH ONE STONE.\
+    ...awaiting the clockwork of the seasons.\
+    METAPHORICALLY.”_
 
 - **A veiled boast about C++**: _There are only two kinds of languages: the ones people complain about and the ones nobody uses. ― Bjarne Stroustrup_
 
@@ -41,7 +39,7 @@ title: Cool Stuff
   find an elegant design that uses state machines, I wonder why I don't use
   those more often. 
 
-- *You can’t just place a LISP book on top of an x86 chip and hope that the hardware learns about lambda calculus by osmosis. *James Mickens, about the undeniable reality of pointers, in  "[The Night Watch](http://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)". The entire [The Wisdom of James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens) series is awesome. James is a man after my own heart.
+- _You can’t just place a LISP book on top of an x86 chip and hope that the hardware learns about lambda calculus by osmosis._ --James Mickens, about the undeniable reality of pointers, in  "[The Night Watch](http://scholar.harvard.edu/files/mickens/files/thenightwatch.pdf)". The entire [The Wisdom of James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens) series is awesome. James is a man after my own heart.
 
 - **Two Kinds of Gifts**: From [Graduate School, Keys to
   Success](https://www.youtube.com/watch?v=fqPSnjewkuA) by Remzi Arpaci-Dusseau, originally
