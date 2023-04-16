@@ -3,6 +3,8 @@ layout: page
 title: Cool Stuff
 ---
 
+- _"Ultimately, the more educated and creative you are, the easier it will be for you to entertain yourself and never be bored."_ -[Hal Abelson](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [paraphrased](https://blog.vivekhaldar.com/post/25136762019/advice-to-prospective-grad-students).
+
 - _"I'm not even sure where preorder numbers come into play. The only application I know of for preorder numbers is to trick you on exams or homeworks"_ -[Vigoda the Betrayer](https://sites.cs.ucsb.edu/~vigoda/), _former_ Professor, Computer Science Department, Georgia Tech. [Link](https://learn.udacity.com/courses/ud401/lessons/e60026f0-1859-4da9-b17d-b92b05d597f1/concepts/d3476004-3d6e-4203-be57-75378a24bb23)
 
 - _"Ever notice how "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn" and "Protected abstract virtual typedef'd copy constructor function" sound identical underwater?"_ -Steve Yegge, Stevey's Drunken Blog Rants
