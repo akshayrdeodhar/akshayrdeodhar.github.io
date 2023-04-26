@@ -22,7 +22,7 @@ papers](https://saeed.github.io/CS8803_DNS_Spring2022/syllabus.html).
 
 In Spring 2023, I'll be returning as a teaching assistant for CS 6210. Besides that, I'm taking two math-y courses- Parallelizing Compilers and Graduate Algorithms, learning a bit of Microeconomics, and am enjoying the (most probably) last semester of my education. 
 
-## 2022- Georgia Tech, Nvidia, and an AI chip startup
+## 2022- Georgia Tech, Nvidia, and Sambanova Systems
 
 In Spring 2022, I worked as a teaching assistant for Prof Kishore
 Ramachandran's course, CS 6210 Advanced Operating Systems.
@@ -30,7 +30,7 @@ Ramachandran's course, CS 6210 Advanced Operating Systems.
 I fulfilled my long-cherished dream of working in a chip company this
 year, **twice**. 
 
-In summer, I interned at **Nvidia**, working in the [Fleet
+In the summer, I interned at **Nvidia**, working in the [Fleet
 Command](https://www.nvidia.com/en-us/data-center/products/fleet-command/)
 team, where I wrote a new service for zero-touch provisioning of GPU-enabled
 edge devices. I also built a prototype where I integrated the Fleet Command log
