@@ -25,45 +25,45 @@ After a 1.2GB download, the installer told me to choose a display manager. I pru
 
 So in public interest here is what you have to do:
 Click *this* icon
-![Click THIS unity icon](/images/icon.png)
+![Click THIS unity icon](/assets/icon.png)
 
 Chose 'Plasma' (bad things have happened when I chose GNOME. But if you are a true hax0r, you must be demeaning about Unity. (Rightly so. Canonical collects user data, and shamelessly states that it does so)).
-![Plasma](/images/plasma.jpeg)
+![Plasma](/assets/plasma.jpeg)
 
 It was at this juncture that I realised that KDE was like windows. For one thing, it took a noticably longer time to load than Ubuntu. It's windows have the [] _ X buttons at the top right, like window's windows. Anyways, it does have  a lot of interesting features.
 There is a conscious effort to make stuff user friendly. The problem is, the general definition of user-friendly is windows-like. It is NOT user friendly to an ubuntu user.  But it IS beautiful.
 
 # The Kubuntu enviornment
-![Kubuntu's Desktop](/images/kubuntu-desktop.png)
+![Kubuntu's Desktop](/assets/kubuntu-desktop.png)
 
 Kubuntu Desktop's defining feature is the ability to add and customize widgets. There are a few built-in ones, like the clock or the menu widget.
 Widgets. More widgets are also available for download. 
 
 # The Menu Widget
-![Menu](/images/menu_widget.png)
+![Menu](/assets/menu_widget.png)
 
 # Time Widget	
-![Calender](/images/calender_widget.png)
+![Calender](/assets/calender_widget.png)
 
 Kubuntu has a smooth look and feel. 
 But Kubuntu also has a few REAL features.
 
 # Run Command
 This is a really nice utility. There are times when you want to run a single command. Kubuntu lets you do this without going through the whole ritual of starting the shell, running the command and closing it.
-![Run Command](/images/run_command.png)
+![Run Command](/assets/run_command.png)
 
 # Clipboard
 Another nice feature is it's clipboard history. (which can get a little weird at times)
-![Clipboard](/images/clipboard.png)
+![Clipboard](/assets/clipboard.png)
 
 # Conclusion
 Kubuntu was a nice experience. But like several other things (like game piracy or making your own mix-in ice-cream) the process was more fun than the result. After about two hours of using Kubuntu I switched back to Ubuntu. I guess it must be because I am not Kool enough. But the brief fling gave me several mementos- like a longer start-up time and spontaneous unexplained 'System Program problem detected' pop-ups (which exort me to report the problem to Canonical rather than telling me what the problem was- something suspiciously similar to windows).
 
-![system problem detected](/images/system-program-problem-detected.png)
+![system problem detected](/assets/system-program-problem-detected.png)
 
 But more importantly, it gave me confidence- the confidece that I could play around with the system and emerge with nothing more than a scratch.
 
-![tisbutascratch](/images/butascratch.jpg)
+![tisbutascratch](/assets/butascratch.jpg)
 
 Armed with this new-found confidence, I had other adventures, one of them with 'plymouth'. But that, belonging to the horror genre, is a tale for another day and hour.
 

@@ -25,7 +25,7 @@ according to htop (cool program, much better than *top*), it was eating up a
 considerable amount of memory- who the hell sits on 800MB of RAM while doing
 nothing (well, firefox, for one)? 
 
-![Skype hogging memory](/images/skype_hogging_memory.png)
+![Skype hogging memory](/assets/skype_hogging_memory.png)
 
 So what I did was this- I used to install and uninstall skypeforlinux before and
 after every meeting. It turns out that this is not needed. Recently I found out
@@ -35,11 +35,11 @@ that it provides a setting where you can disable this unruly behaviour
 
 > And change **this**:
 
-![Skype with bad settings enabled](/images/skype_settings.png)
+![Skype with bad settings enabled](/assets/skype_settings.png)
 
 > To this
 
-![Skype with bad settings disabled](/images/skype_disabled.png)
+![Skype with bad settings disabled](/assets/skype_disabled.png)
 
 If you already knew this, cheers! If you did not, I implore you to save your
 RAM. To those with a ton of RAM, what can I say?

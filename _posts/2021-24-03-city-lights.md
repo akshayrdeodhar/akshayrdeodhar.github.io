@@ -4,7 +4,7 @@ title: "The city at dusk"
 date: 2021-03-24
 ---
 
-<img src = "/images/city-twilight.jpg" width="100%" alt="The city at twilight" align = "center">
+<img src = "/assets/city-twilight.jpg" width="100%" alt="The city at twilight" align = "center">
 
 I suppose that men have been climbing mountains for thousands of years now.
 Frustration, Sadness, and $(THIRD\_THING) have been known to man since the time
@@ -64,14 +64,14 @@ And now.. amateur photography.
 
 I wonder that the reflecting surface is..
 
-<img src = "/images/city-reflection.jpg" width="100%" alt="The city at dusk, reflection" align = "center">
+<img src = "/assets/city-reflection.jpg" width="100%" alt="The city at dusk, reflection" align = "center">
 
 I suppose the sun's colors are the best part of this picture.
 
-<img src = "/images/city-dusk.jpg" width="100%" alt="Nature steals the show" align = "center">
+<img src = "/assets/city-dusk.jpg" width="100%" alt="Nature steals the show" align = "center">
 
 Believe it or not, but this is *not* a timelapse.
 
-<img src = "/images/city-timelapse.jpg" width="100%" alt="Timelapse?" align = "center">
+<img src = "/assets/city-timelapse.jpg" width="100%" alt="Timelapse?" align = "center">
 
 

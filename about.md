@@ -16,13 +16,13 @@ words, I've hacked LLVM, KVM,
 read loads of [systems research
 papers](https://saeed.github.io/CS8803_DNS_Spring2022/syllabus.html).
 
-# Experience
+## Experience
 
-## 2023- Back to Georgia Tech
+### 2023- Back to Georgia Tech
 
 In Spring 2023, I'll be returning as a teaching assistant for CS 6210. Besides that, I'm taking two math-y courses- Parallelizing Compilers and Graduate Algorithms, learning a bit of Microeconomics, and am enjoying the (most probably) last semester of my education. 
 
-## 2022- Georgia Tech, Nvidia, and Sambanova Systems
+### 2022- Georgia Tech, Nvidia, and Sambanova Systems
 
 In Spring 2022, I worked as a teaching assistant for Prof Kishore
 Ramachandran's course, CS 6210 Advanced Operating Systems.
@@ -48,7 +48,7 @@ market. This was the place where I finally earned my compiler stripes. Other
 than that, I met a lot of people who were really smart, enthusiastic, and fun
 to be around.
 
-## 2021- Veritas Technologies
+### 2021- Veritas Technologies
 
 As a final year undergrad at College of Engineering Pune, I did a co-op /
 internship at Veritas Technologies in the Infoscale team, working on a
@@ -59,7 +59,7 @@ call this microservice for allocating volumes for containers that it schedules.
 This was an awesome experience, because it allowed me to work with Kubernetes
 Custom Resources, code-generation, and the CSI spec. 
 
-## 2020- IIT Kanpur
+### 2020- IIT Kanpur
 
 Before that, I did a research internship at IIT Kanpur in December 2019-20 and
 [summer 2020](https://www.cse.iitk.ac.in/users/swarnendu/alumni.html) with
@@ -76,7 +76,7 @@ characterising sparse matrices with respect to these kernels. Our work resulted
 in a paper at ICPP 2021's DUAC workshop. Have a look at it
 [here](https://www.cse.iitk.ac.in/users/swarnendu/files/papers/spmv-duac21.pdf).
 
-## 2017 - 2021- COEP Satellite Team
+### 2017 - 2021- COEP Satellite Team
 
 I was the ADCS Subsystem Lead at COEP's Satellite Initiative. The team is working on
 designing (and hopes to launch) a Solar Sailing satellite- one which maneuvers
@@ -94,7 +94,7 @@ discussing BCH, stackless coroutines, and deadlocks. If you are a COEP student,
 consider joining the team the next time they conduct inductions! CSAT has got
 really cool stuff going on.
 
-## Misc
+### Misc
 
 Besides this, the other things from undergrad that I loved doing were [hacking
 xv6](https://github.com/akshayrdeodhar/xv6-kthreads), building an AI chess game,
@@ -103,7 +103,7 @@ whom I named "[Trillian](https://github.com/akshayrdeodhar/trillian)" (a Hitch-H
 Scheme when I was young and carefree. 
 
 
-# Life
+## Life
 
 This is a personal website, but it is also my blog- the posts are scattered and
 mostly not Deep CS posts, but hey! Other stuff is fun too! If you want to
@@ -114,7 +114,7 @@ Inspite of my respect for Emacs and Arch users, I opt to use Vim (sometimes
 _VSCode_) and Manjaro, and have grown to love the GUI package manager. I'm an
 open source fan.  Recently, I started using Clang instead of GCC.
 
-I hope to do things in life other than CS- I've at different points in time
+I ~~hope to~~ do things in life other than CS- I've at different points in time
 been really into trekking, Sci-Fi and Fantasy, Wodehouse, Douglas Adams,
 classical music (western and Hindustani), Chess, and Badminton. I enjoy
 cooking, and am becoming better at it, one dish at a time. I've written some

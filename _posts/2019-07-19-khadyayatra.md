@@ -29,7 +29,7 @@ Then, one fine Saturday evening, we finally hit the streets.
 
 # Act I: The Pride of FC Road
 
-<img src="/images/spdp.jpg" width="50%" alt="Shev Batata Dahi Puri (SPDP)" align="center">
+<img src="/assets/spdp.jpg" width="50%" alt="Shev Batata Dahi Puri (SPDP)" align="center">
 
 Our trip started in a typical *Puneri* fashion, with SPDP at Vaishali. Famously called 'V' this establishment has been the pride of Pune for the last 60 years. Now, there is an interesting thing about SPDP. It is an acronym for Shev *Batata* Dahi Puri. (**NOT** Sev Potato Dahi Puri). SPDP is exatly what it's name implies. Yet this mundane dish at Vaishali seems special. In fact, there is something about V. (besides it's great food quality, ambience and location) that makes you come again and again. Whether it is for Sunday Breakfast with friends of a *quick one* (I refer to coffee, of course. Ethyl Alcohol is frowned upon) in the evening, V is the place to go (because it is the place to go for *everyone*, it will, unfortunately be crowded)
 
@@ -37,13 +37,13 @@ V might not be in Old Pune, but it *is* 60 years old. This definitely gets it a 
 
 # Act II: Edible Cream Rolls
 
-<img src="/images/creamrollfull.jpg" width="50%" alt="Cream Roll" align="center">
+<img src="/assets/creamrollfull.jpg" width="50%" alt="Cream Roll" align="center">
 
 At any roadside shop that sells 'cutting' *chai* (and unfortunately, ''*loose change*'' too), in a grubby jar lie some ancient, inedible cream rolls. Nothing about them is appetizing- the *chitinous exoskeleton*, the bland *oshat* white paste inside, or the fear of passive smoking.
 
 But on Apte road is a fine establishment called Santosh Bakery (Whose signboard, if you take a look at it boldly claims that it sells 'Bakery Products'. I have no Idea why they chose to sell bakery products in a bakery, which is not related to them at all.)
 
-<img src="/images/santosh.jpg" width="50%" alt="Santosh Bakery" align="center">
+<img src="/assets/santosh.jpg" width="50%" alt="Santosh Bakery" align="center">
 
 Now during my days at Fergusson College, I had eaten Patties, biscuits and cakes at Santosh, and quite liked them. But on that fateful day, my friend suggested that we have a cream roll. I failed to understand why this JEE athlete was burdening his stomach with this poisonous substance. But I played along. **And absolutely loved it**. It was, in fact not poisonous.
 
@@ -53,11 +53,11 @@ PS: I **know** Enid Blyton was a woman. I was unable to figure it out during my 
 
 I never understood what *macaroons* meant when I read about them in Blyton's books. All I know was that they were wonderful. At that moment, I decided that Santosh's cream rolls were, in fact Macaroons.
 
-<img src="/images/creamroll.jpg" width="50%" alt="Macaroons" align="center">
+<img src="/assets/creamroll.jpg" width="50%" alt="Macaroons" align="center">
 
 # Act III: Batata Wada and Downpour
 
-<img src="/images/vada.jpg" width="50%" alt="Batata Wada" align="center">
+<img src="/assets/vada.jpg" width="50%" alt="Batata Wada" align="center">
 
 It was time to enter the maze. I told my friend that I wanted to understand the maze, it's turns and tricks and traps.
 
@@ -65,7 +65,7 @@ And so we went, him expertly guiding me, and casually tellling me names like 'Na
 
 It was 5:30 or so, and we realized we were on the clock. A few of the fine establishments we were going to patronize that day had a feature in common- they closed at 7- either due to their inherant *puneri-ness* of when they ran out of ingredients. What this means is they actually *use* fresh ingredients (or are *Puneri*, which is as good). Considering this, we (he)plottd an optimum course which would allow us to maximise our *plaisir de manger*.
 
-<img src="/images/prabha.jpg" width="50%" alt="Prabha 'Vishranti' Gruha" align="center">
+<img src="/assets/prabha.jpg" width="50%" alt="Prabha 'Vishranti' Gruha" align="center">
 
 Accordingly, we first went to Prabha Vishranti Gruha to exercise our taste buds. This is another characteristic of Pune eateries- they never call themselves restaurants. Instead they have fancy names like *Bhuvan* *Vishranti Gruha*, etc. Ice cream shops call themselves Kawre *Colddrinks*. At Prabha, we had *Batata Wada*. It' taste was novel- spicy and sour with sweet in the background. Again, it's size was double that of normal *wadas*. Prabha also serves other quintessential delicacies- *Misal*, *Sabudana Wada*, and *Kakdi-Khichadi*. 
 

@@ -1,5 +1,5 @@
 ---
-layout: bloghome
+layout: home
 title: "Blog II"
 ---
 

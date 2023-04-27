@@ -15,7 +15,7 @@ And today, I am doing a book review.
 
 # And So It Begins
 
-![Gandalf](/images/Gandalf-2.jpg)
+![Gandalf](/assets/Gandalf-2.jpg)
 
 Ready Player one is a nerd-culture fantasy book by Ernest Cline. By nerd culture fantasy I don't refer to a book which involves fireballs and wizards (it, in fact does involve fireballs and wizards). It fantasizes about a time when nerd culture will take over the world. \*maniacal laughter\*
 
@@ -27,12 +27,12 @@ But I loved it anyway.
 
 # The Book
 
-![RP1](/images/rp1.jpg)
+![RP1](/assets/rp1.jpg)
 
 The book is set in the OASIS (it stands for *Ontologically Anthropocentric Sensory Immersive Simulation* But if you ask Agent Grant Ward, he'd say: 
 > "Someone really wanted their initials to spell OASIS"
 
-![SHIELD](/images/ward.jpeg)
+![SHIELD](/assets/ward.jpeg)
 
 The author builds the OASIS, and then builds a real world around it. He builds the real world in such a way that it sucks (or to be l33t, Suck7). And the OASIS literally has avatars named I-r0k.
 

@@ -4,7 +4,7 @@ title: "A show about nothing"
 date: 2020-07-03
 ---
 
-![Seinfeld](/images/seinfeld.jpeg)
+![Seinfeld](/assets/seinfeld.jpeg)
 
 I haven't been reading much lately, and that's a shame. Until a couple of years
 ago I used to be involved in reading some kind of series or anthology. It's as
@@ -39,7 +39,7 @@ was a particularly crazy episode where Newman investigates Jerry for postal
 fraud, where an assistant moves printed photos to create a slideshow as Newman
 clicks his (obviously defunct) pointer which prompted me to write this.
 
-![Newmann!](/images/newman.gif)
+![Newmann!](/assets/newman.gif)
 
 Besides Newman, the show boasts of quite a quriky cast of side characters- Jerry's thrifty
 British parents- Helen and Morty, with their own world of machinations and

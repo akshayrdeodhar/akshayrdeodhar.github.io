@@ -45,8 +45,8 @@ minima:
   date_format:  "%b %-d %Y"
 
   social_links:
-    github: akshayrdeodhar
-    linkedin: akshay-r-deodhar
+    - { platform: github, user_url: "https://github.com/akshayrdeodhar" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/akshay-r-deodhar/" }
 
 header_pages:
   - about.md
