@@ -22,8 +22,8 @@ title: Akshay Deodhar
 author: 
   name: "Akshay Deodhar"
   email: akshayrdeodhar@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
 
+description: >- # this means to ignore newlines until "baseurl:"
   A personal "website" and blog rolled into one.
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -35,11 +35,15 @@ site:
     name: "Akshay Deodhar"
     email: "akshayrdeodhar@gmail.com"
 
-# Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# Build settings
+theme: minima
+
+remote_theme: jekyll/minima
 
 minima: 
   date_format:  "%b %-d %Y"
