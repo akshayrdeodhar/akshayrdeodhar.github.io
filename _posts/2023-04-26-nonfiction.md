@@ -18,7 +18,7 @@ People I know (hello आजी) have argued that fiction is dangerous, that peop
 
 Knowing that nonfiction is unreliable, reading a _textbook_ seems better (and believe me, I have tried), because that will have gone through more rigorous scrutiny from _academicians_ (who I will trust over other groups). But reading a textbook as _leisure_ is not fun. I like reading Computer Science textbooks, but I _am_ a Computer Scientist by profession (believe it or not, in a few days I will be deemed to be a _Master_ of Computer Science). 
 
-I want to learn about things other than CS. "I'm interesting in anything that requires _thinking_" (I'm also interested in things that _don't_ require thinking). Because reading textbooks from *k* different areas takes a lot of effort, nonfiction/popular science has become a shaky middle ground that I hesitate to, but sometimes do tread upon. 
+I want to learn about things other than CS. "I'm interested in anything that requires _thinking_" (I'm also interested in things that _don't_ require thinking). Because reading textbooks from *k* different areas takes a lot of effort, nonfiction/popular science has become a shaky middle ground that I hesitate to, but sometimes do tread upon. 
 
 This is also why I found _Godel Escher Bach: An Eternal Golden Braid_ and _Soul of a New Machine_ so cool. (both Pulitzer winners in nonfiction). In one, I had to reason through the ideas presented, sometimes so much so that it made my head hurt. The other was more of a _story_, and the author was not trying to say "Microkernels are better than monolithic OSs because [insert some "early man used microkernels for thousands of years and that's what we are built for" joke here]".
 
