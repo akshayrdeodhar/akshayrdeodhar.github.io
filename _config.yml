@@ -41,7 +41,7 @@ plugins:
   - jekyll-remote-theme
 
 # Build settings
-theme: minima
+# theme: minima
 
 remote_theme: jekyll/minima
 
