@@ -8,7 +8,7 @@ After a long hiatus, I've started reading regularly, once again. I joined goodre
 
 I've always had an aversion to nonfiction. 
 
-A part of the reason is silly. Just as I make fun of those students who study regularly (while inwardly wanting to become like them), or laugh at those who go jogging (while wishing for the stamina for running a marathon), or sniggering about people who take think about style and contrast and high quality footwear.. [Caution! Don't blow your cover!], I also used to think that non-fiction readers are _not fun_ and _too serious_.[^1] before I became one of them.
+A part of the reason is silly. Just as I make fun of those students who study regularly (while inwardly wanting to become like them), or laugh at those who go jogging (while wishing for the stamina for running a marathon), or snigger about people who take the pains to think about style and contrast in clothing, and high quality footwear.. [Caution! Don't blow your cover!], I also used to think that non-fiction readers are _not fun_ and _too serious_.[^1] before I became one of them.
 
 [^1]: I no longer judge atleast 2 of the other 3 things.
 
