@@ -8,12 +8,7 @@ layout: page
 
 Welcome! I'm Akshay.
 
-~~I'm a rambling wreck from Georgia Tech.~~ I am a Computer Science Master's student at Georgia Tech, specializing in Computing
-Systems. I want to build correct, fast, and scalable software. Find out more [about](/about) me. 
+I'm a computer scientist interested in working on systems software, databases, compilers and infrastructure. I want to build correct, fast, and scalable software. ~~I was a rambling wreck from Georgia Tech.~~ I recently graduated with a master's degree in CS from Georgia Tech, specializing in Computing Systems. Take a look at my [resume](https://drive.google.com/file/d/1lDEYajvxcl96x1H4cHi3-1PPJX0JLOMH/view?usp=sharing).
 
-I am looking for full time opportunities as a software engineer starting ~May 2023. 
-I'm interested in infrastructure, systems software, compilers, databases,
-and high performance computing- but am open to anything that'll involve
-_thinking_ and writing code. Take a look at my
-[resume](https://drive.google.com/file/d/1lDEYajvxcl96x1H4cHi3-1PPJX0JLOMH/view?usp=sharing).
 
+I'm interested in anything and everything that involves thinking. I'm also interested in lots of things that don't require thinking. Find out more [about](/about) me.

@@ -3,6 +3,16 @@ layout: page
 title: Cool Stuff
 ---
 
+- **The Dungeon Master Experience, by Chris Perkins**: Intended as advice about
+  creating great D&D campaigns, this taught me about good storytelling, with
+the prelude to each week's column reading like a patchwork of stories about
+Chris' byzantine campaign, "Iomandra and the Dragon Sea".
+[link](https://www.enworld.org/attachments/dm_experience_2011-pdf.63299/).
+Excrept: _The heroes convene aboard their ship, the Maelstrom, before embarking
+on their next epic quest. That’s when Melech, Bruce Cordell’s character,
+notices something strange in the night sky: three unfamiliar stars peering just
+above the southwestern horizon._
+
 - **The Dragon In My Garage, by Carl Sagan**: [Now, what's the difference between an invisible, incorporeal, floating dragon who spits
 heatless fire and no dragon at all?](http://people.whitman.edu/~herbrawt/classes/110/Sagan.pdf)
 
