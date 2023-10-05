@@ -3,6 +3,8 @@ layout: page
 title: Cool Stuff
 ---
 
+- **Against a lifestyle of consumption**: _The logic of the best is so pernicious because it’s poised to monopolize — an emphasis on the consumption of material goods can easily translate into a life of generalized consumption. A whole language can start to develop around not just the consumption of goods, but the consumption of experience: “We did Prague.” “We did Barcelona.”_ -[Moxie Marlinspike](https://moxie.org/2012/11/27/the-worst.html)
+
 - **The Dungeon Master Experience, by Chris Perkins**: Intended as advice about
   creating great D&D campaigns, this taught me about good storytelling, with
 the prelude to each week's column reading like a patchwork of stories about
