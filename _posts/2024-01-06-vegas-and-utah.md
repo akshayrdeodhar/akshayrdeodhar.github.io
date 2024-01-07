@@ -11,6 +11,8 @@ date: 2024-01-06
 
 **Day Two**
 
+<img src = "/assets/mesa_arch.jpg" width="100%" alt="The city at twilight" align = "center">
+
 Its 7am at Canyonlands National Park, the sun peeps through the Mesa Arch,
 nestled at the end of a cliff overlooking a landscape that perfectly fits its
 name. Twoscore early risers are positioned in front of the arch, their
@@ -35,6 +37,8 @@ it.
 \*\*\*
 
 **Day One**
+
+<img src = "/assets/antelope_island.jpg" width="100%" alt="The city at twilight" align = "center">
 
 An hour's drive from Salt Lake City, the Antelope Island was my first true
 glimpse of the beauty of Utah. Running up a mile-long trail to catch the sunset,
@@ -154,6 +158,8 @@ all the glory that we witnessed, I implore tourists to not enter this valley,
 lest they despoil its sanctity.
 
 # Vegas is a one-time experience
+
+<img src = "/assets/vegas.jpg" width="100%" alt="The city at twilight" align = "center">
 
 Vegas. America's Sin City. A grand city of gold and grime alike. We drove into
 the sin city, cold and empty on the last day of a trip withlled with breathtaking
