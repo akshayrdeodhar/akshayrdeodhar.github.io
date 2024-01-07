@@ -162,7 +162,7 @@ lest they despoil its sanctity.
 <img src = "/assets/vegas.jpg" width="100%" alt="The city at twilight" align = "center">
 
 Vegas. America's Sin City. A grand city of gold and grime alike. We drove into
-the sin city, cold and empty on the last day of a trip withlled with breathtaking
+the sin city, cold and empty on the last day of a trip filled with breathtaking
 views of Utah's unforgiving, yet enchanting mountains. Pretty anticlimatic.
 
 In my twenty-four hours in the city, I've seen all kinds of sin, sometimes
@@ -188,7 +188,7 @@ profitable establishments in the US, which beckons you to enjoy "religious
 nightlife" and "spiritual dining", a large statue of Buddha showering blessings
 over all who enter). The Venetian (my favourite casino by far) has the "Grand
 Canal Shopping Center"- a long corridor filled with brand-name stores, bars,
-restaurants, with a cleared water artifical canal running through the middle,
+restaurants, with a cleared water artificial canal running through the middle,
 connecting "The Pallazo" with "The Venetian". A false sky-ceiling covers the
 canal, with all external light blotted out. One section perpetually in daytime,
 another forever locked in twilight. Gondolas float through the canal, with
@@ -196,12 +196,12 @@ opera-singing rowers taking tourists around, in a Venice imitation I'm not
 entirely sure is accurate. With the smooth cobblestone pavements, charming
 streetlamps, little bridges stretching across the canal (offering spots for
 tourists to click millions of selfies) and the occasional opera singers
-seranading the crowd, the corridor recreates (or to the discerning American
+serenading the crowd, the corridor recreates (or to the discerning American
 patron, outdoes) the atmosphere of Venice.
 
 I am properly dazzled by this atmosphere on the cold and empty sunday night, and
 return on monday afternoon, only to find the corridor overflowing with
-hoodie-wearing, badge-flashing persons of diverse nationalitieis. The Venetian
+hoodie-wearing, badge-flashing persons of diverse nationalities. The Venetian
 (and the surrounding Palazzo and Wynn casinos) are host to a convention: AWS
 reIgnite. Volunteers dressed like birds, with large artificial plumage
 identifying them to be Amazon ~~employees~~ contractors walk around, looking
@@ -219,10 +219,10 @@ limousines for "a party and more", I laughed in their face. But I couldn't avoid
 the sweet smell of secondhand cancer- wafting through the street, next to the
 one-armed bandits, and at the airport. 
 
-Vegas is grandoise. Elegant. I could even call it beautiful. I have a long
+Vegas is grandiose. Elegant. I could even call it beautiful. I have a long
 moment on one of the bridges after sunset before it gets cold, with the casinos
 (and people) lighting up and well-dressed tourists walking in to the halls of
-those esteemed instituitions, marvelled. A city perpetually on vacation,
+those esteemed institutions, marvelled. A city perpetually on vacation,
 welcoming, nay, inviting any and all with open arms, at the low-low cost of
 everything in their wallets at the time. 
 
@@ -242,7 +242,7 @@ stopping the bus, and informing him that sleeping on buses is not allowed, while
 man pretends to continue sleeping. A large burly man (I don't remember his other
 characteristics, I'll call him Mr. Wallace) promises to "work on the driver's
 ass" if he doesn't start the vehicle reasoning that "the driver ain't gonna hold
-him up on his way home". After the formality of asking if the afromentioned
+him up on his way home". After the formality of asking if the aforementioned
 person is "threatening him", the driver goes back to the front, and we are on
 our way. The tatooed man gets off at the next stop, commenting that Mr. Wallace
 must have scared the driver. 
@@ -250,7 +250,7 @@ must have scared the driver.
 The airport stinks. Men are taking off their shirts in the security check line,
 and revealing their hairy chests. The flooring looks gaudy- for some reason
 everything in vegas must sparkle. Slot machines everywhere. People suffering
-severly from mid-life crisis sit next to one armed bandits near the boarding
+severely from mid-life crisis sit next to one armed bandits near the boarding
 gate, feeding them dollar bills. A particularly distressed person checks their
 bank balance on a mobile app, and continues to play, waiting for his flight.
 Luckily, I find a nice bagel stand, share a laugh with the server who
