@@ -3,6 +3,8 @@ layout: page
 title: Cool Stuff
 ---
 
+- _It took me some time to realize why I keep coming back to this place. To the attendant, in her spectacles, and face-mask. To the small enclosure contained within those four walls with their white paint tearing up in some places. To the servers, with their plates, and to the food topped with Ghee. I was looking for a word, a feeling to explain this behavior. I know what it is now. Familiarity._. [Ghee Sakhar, by Mihir Jain](https://mihirjain.blogspot.com/)
+
 - **Against a lifestyle of consumption**: _The logic of the best is so pernicious because it’s poised to monopolize — an emphasis on the consumption of material goods can easily translate into a life of generalized consumption. A whole language can start to develop around not just the consumption of goods, but the consumption of experience: “We did Prague.” “We did Barcelona.”_ -[Moxie Marlinspike](https://moxie.org/2012/11/27/the-worst.html)
 
 - **The Dungeon Master Experience, by Chris Perkins**: Intended as advice about
