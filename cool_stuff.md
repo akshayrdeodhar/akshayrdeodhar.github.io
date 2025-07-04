@@ -5,7 +5,7 @@ title: Cool Stuff
 
 - ["But now we shall both surely drown" said the Frog. "lol" said the Scorpion, "lmao"](https://knowyourmeme.com/memes/scorpion-and-frog) and [Midwit](https://imgflip.com/i/9zbibz)
 
-- _On the other hand, if one simply hands out coins to the soldiers and demands that every family in the kingdon was obliged to pay one of those coins back to you, one would, in one blow, turn one's entire economy into a vast machine for the provisioning of soldiers, since now every family, in order to get their hands on the coins, must find some wy to contribute to the general effort to provide soldiers with the things that they want_ -Debt: The First 5000 Years by David Graber
+- _On the other hand, if one simply hands out coins to the soldiers and demands that every family in the kingdon was obliged to pay one of those coins back to you, one would, in one blow, turn one's entire economy into a vast machine for the provisioning of soldiers, since now every family, in order to get their hands on the coins, must find some way to contribute to the general effort to provide soldiers with the things that they want_ -Debt: The First 5000 Years by David Graber
 
 - _You've heard of animals chewing off a leg to escape a trap? There's an animal kind of trick. A human would remain in the trap, endure the pain, feigning death that he might kill the trapper and remove a threat to his kind._ -Dune, Frank Herbert
 
