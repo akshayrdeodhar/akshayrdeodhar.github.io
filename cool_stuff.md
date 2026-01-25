@@ -3,6 +3,8 @@ layout: page
 title: Cool Stuff
 ---
 
+- _On two occasions I have been asked,— “Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?” … I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question._ -Passages from the life of a Philosopher, Charles Babbage
+
 - ["But now we shall both surely drown" said the Frog. "lol" said the Scorpion, "lmao"](https://knowyourmeme.com/memes/scorpion-and-frog) and [Midwit](https://imgflip.com/i/9zbibz)
 
 - _On the other hand, if one simply hands out coins to the soldiers and demands that every family in the kingdon was obliged to pay one of those coins back to you, one would, in one blow, turn one's entire economy into a vast machine for the provisioning of soldiers, since now every family, in order to get their hands on the coins, must find some way to contribute to the general effort to provide soldiers with the things that they want_ -[Debt: The First 5000 Years by David Graeber](https://www.youtube.com/watch?v=CZIINXhGDcs)
