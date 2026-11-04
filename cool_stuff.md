@@ -3,6 +3,8 @@ layout: page
 title: Cool Stuff
 ---
 
+- _Hermione arrived at the Ravenclaw table and got a dutiful cheer; Harry wondered whether the cheer would have been louder, or quieter, if they'd had any idea just what level of competition they'd welcomed to their table. Harry knew pi to 3.141592 because accuracy to one part in a million was enough for most practical purposes. Hermione knew one hundred digits of pi because that was how many digits had been printed in the back of her maths textbook._ - Harry Potter and the Methods of Rationality
+
 - _On two occasions I have been asked,— “Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?” … I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question._ -Passages from the life of a Philosopher, Charles Babbage
 
 - ["But now we shall both surely drown" said the Frog. "lol" said the Scorpion, "lmao"](https://knowyourmeme.com/memes/scorpion-and-frog) and [Midwit](https://imgflip.com/i/9zbibz)
